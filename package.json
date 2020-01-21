@@ -1,0 +1,33 @@
+{
+  "name": "@dominion-framework/repository-http",
+  "version": "0.2.5",
+  "description": "Dominion model's repository for HTTP REST API.",
+  "homepage": "https://dominion.js.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dominion-framework/repository-http"
+  },
+  "bugs": {
+    "url": "https://github.com/dominion-framework/repository-http/issues"
+  },
+  "keywords": [
+    "Node.js",
+    "api",
+    "rest",
+    "restfull",
+    "framework",
+    "promise",
+    "repository",
+    "http"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "api-declaration": "^0.0.3",
+    "node-fetch": "^2.6.0"
+  },
+  "author": {
+    "name": "Yura Chaikovsky",
+    "email": "yura.chaikovsky@gmail.com"
+  },
+  "license": "MIT"
+}
