@@ -9,12 +9,12 @@ class Repositories {
                 constructor() {
                     super();
                     this.__model__ = modelName;
-                    this.api = (new ApiFactory(baseUrl, apiDefinition))[this.__model__];
+                    this.api = (new ApiFactory(baseUrl, apiDefinition));
                 }
             }
         }[className];
 
-        return (new Repository()).api;
+        return new Repository();
     }
 }
 

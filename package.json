@@ -22,7 +22,7 @@
   ],
   "main": "src/index.js",
   "dependencies": {
-    "api-declaration": "^0.0.3",
+    "api-declaration": "^0.0.4",
     "node-fetch": "^2.6.0"
   },
   "author": {
