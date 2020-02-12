@@ -1,6 +1,6 @@
 {
   "name": "@dominion-framework/repository-http",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Dominion model's repository for HTTP REST API.",
   "homepage": "https://dominion.js.org",
   "repository": {
